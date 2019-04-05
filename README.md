@@ -1,3 +1,5 @@
+Untouched copy of SpeedSketch from Xamarin Samples.
+
 SpeedSketch
 ==============
 
